@@ -14,4 +14,9 @@
         android:layout_height="wrap_content"
         android:id="@+id/avtivity_main_buton_id"
         android:text="create a database"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/XUtilsButton"
+        android:text="xUtils"/>
 </LinearLayout>
